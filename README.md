@@ -15,10 +15,12 @@ para poner cursiva guion bajo antes y despues _tal que asi_
 
 para poner un emoji dos puntos antes y despues del nombre del emoji :grinning:
 
-las alerta se poner el simbolo de mayor, corchete cuadrado exclamacion palabra,cerrar corchete, seguido de mayor y texto
+las alerta se poner el simbolo de mayor, corchete cuadrado exclamacion palabra,cerrar corchete, seguido de mayor y texto acabar con mayor y nueva linea
 >[!NOTE]
 >esto es una alarma
->
+
+para poner una imagen exclamacion entre corchetes cuadrado una palabra [y el http]
+o entre parentesis el path de la imagen)
 
 
 
