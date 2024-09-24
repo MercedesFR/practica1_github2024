@@ -22,6 +22,7 @@ las alerta se poner el simbolo de mayor, corchete cuadrado exclamacion palabra,c
 para poner una imagen exclamacion entre corchetes cuadrado una palabra [y el http]
 o entre parentesis el path de la imagen)
 ![imagen][https://github.com/MercedesFR/practica1_github2024/blob/main/Captura.JPG]
+![imagen](/Captura.JPG)
 
 
 
