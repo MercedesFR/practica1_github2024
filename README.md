@@ -7,7 +7,7 @@ se añade una almohodilla delante
 ### otros
 para poner una enumeracion debes usar guion
 - primer nivel de guion
--   segundo nivel de guion
+  - segundo nivel de guion
    
 para poner negrita por asteristo antes y despues de la palabra **asi**
 para poner cursiva guion bajo antes y despues _tal que asi_
