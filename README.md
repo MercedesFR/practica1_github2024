@@ -10,6 +10,8 @@ para poner una enumeracion debes usar guion o tab y guion para otros niveles
   - segundo nivel de guion
    
 para poner negrita por asteristo antes y despues de la palabra **asi**
+
 para poner cursiva guion bajo antes y despues _tal que asi_
+
 para poner un emoji dos puntos antes y despues del nombre del emoji :grinning:
 
