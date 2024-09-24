@@ -5,7 +5,7 @@ el fichero contiene
 ### Titulos y subtitulos(tercer nivel)
 se añade una almohodilla delante
 ### otros
-para poner una enumeracion debes usar guion
+para poner una enumeracion debes usar guion o tab y guion para otros niveles
 - primer nivel de guion
   - segundo nivel de guion
    
