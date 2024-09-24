@@ -2,7 +2,7 @@
   codigo de un programa conversor de decimal a binario que se puede probar con el enlace del boletin
 ## Introduccion
 el fichero contiene
-###Titulos
+### Titulos
 se añade una almohodilla delante
-###subtitulos
+### subtitulos
 se añaden mas
